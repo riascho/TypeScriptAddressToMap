@@ -2,7 +2,7 @@
 
 This project is a simple web application that allows users to enter an address, search for it using the Google Maps API, and display the location on a map with a marker. The application is built using `TypeScript` and bundled with `Webpack`.
 
-Built for the [Unterstanding Typescript Course](https://www.udemy.com/course/understanding-typescript) on Udemy.
+Built for the [Understanding Typescript Course](https://www.udemy.com/course/understanding-typescript) on Udemy.
 
 ![Demo](<CleanShot 2024-10-23 at 20.11.42.gif>)
 
